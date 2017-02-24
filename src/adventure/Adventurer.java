@@ -15,9 +15,11 @@ public class Adventurer {
   
 	private boolean flashlight = false;
 	private boolean lock = false;
-  private boolean note = false;
-  private boolean flowerVase = false;
-  private boolean emptyBottle = false; 
+	private boolean note = false;
+  	private boolean flowerVase = false;
+  	private boolean emptyBottle = false; 
+	private boolean key = false;
+	private boolean book = false;
 	
   
   
