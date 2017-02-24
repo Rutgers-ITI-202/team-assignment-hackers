@@ -41,15 +41,15 @@ public class TextAdventure {
 		} else if(answer.equalsIgnoreCase("yes")){
 				System.out.println("");
 				System.out.println("Aron is on his way home from a long day at work. He was looking forward\n"
-						+ "to spending time with his family. When he walks in his house he notices all the lights\n"
-						+ "lights are off. Papers all over the place, tables turned over, and no sign of Aron's family.\n"
-						+ " Aron calls out to his family but there is only dead silence.\n"
-						+ " Suddenly he feels a sharp pain in the back of his head and everything\n"
+						+ "to spend time with his family. When he walks in his house he notices all the lights\n"
+						+ "are off. Papers were all over the place, tables were turned over, and no sign of Aron's family.\n"
+						+ "Aron calls out to his family but there is only dead silence.\n"
+						+ "Suddenly he feels a sharp pain in the back of his head and everything\n"
 						+ "goes black. Aron wakes up he in an unfamilar room with unconnected objects.\n"
 						+ "In front of Aron, he sees a table, a note on the wall, and a closed box on the floor.\n");}
 
  		
-	System.out.println( "What will Aron do, player?\n");
+	System.out.println("What will Aron do, player?\n");
 	System.out.println("Your choices are:\n"
 			+ "1. Go towards the table\n"
 			+ "2. Examine the note \n"
