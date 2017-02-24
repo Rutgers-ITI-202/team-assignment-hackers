@@ -12,7 +12,7 @@ An adventurer can:
 package adventure;
 
 public class Adventurer {
-  
+  	//Some items that may appear in game
 	private boolean flashlight = false;
 	private boolean lock = false;
 	private boolean note = false;
@@ -20,7 +20,22 @@ public class Adventurer {
   	private boolean emptyBottle = false; 
 	private boolean key = false;
 	private boolean book = false;
+	private boolean box = false;
 	
+	
+	
+	
+	public boolean getnote() {
+		return true;
+	}
+	
+	public boolean getlock() {
+		return true;
+	}
+	
+	public boolean getflashlight() {
+		return true;
+	}
   
   
   
