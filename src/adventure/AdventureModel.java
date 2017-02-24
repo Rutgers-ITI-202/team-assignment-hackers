@@ -13,7 +13,7 @@ package adventure;
 
 public class AdventureModel {
 
-	//A set of Action commands
+	//A set of Action commands, protected gives access to the package adventure, & final can't be overridden?
 	protected static final String[] LOOK = new String[] {"look", "examine", "read"};
 	protected static final String[] TAKE = new String[] {"take", "get", "keep"};
 	protected static final String[] USE = new String[] {"use"};
