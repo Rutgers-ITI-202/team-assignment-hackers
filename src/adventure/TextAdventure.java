@@ -1,17 +1,13 @@
 /*
 This class:
-â€¢	Contains the main method used to start the game.
-â€¢	Talks to the AdventureModel and to the Adventurer classes, as needed.
+ * Contains the main method used to start the game.
+ * @author Kajal, Kathy, Winnie
+ * @since 2.24.17
+ * Talks to the AdventureModel and to the Adventurer classes, as needed.
 */
 
 package adventure;
 import java.util.Scanner;
-/**
- * This class will be the main method to start the game.
- * @author Kajal, Kathy, Winnie
- * @since 2.24.17
- */
-
 
 public class TextAdventure {
 
