@@ -19,11 +19,8 @@ public class AdventureModel {
 	protected static final String[] USE = new String[] {"use"};
 	protected static final String[] OPEN = new String[] {"open"};
 	protected static final String[] CLOSE = new String[] {"close"};
-}
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
-		// creating methods for rooms
+	// creating methods for rooms
 	public static void garden(){ 
 	
 	}
@@ -33,3 +30,4 @@ public class AdventureModel {
 	public static void kitchen(){
 		
 	}
+}
