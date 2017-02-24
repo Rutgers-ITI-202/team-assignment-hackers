@@ -17,6 +17,8 @@ public class TextAdventure {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		TextAdventure escape;
+		AdventureModel AMObject= new AdventureModel();
+		Adventurer AObject = new Adventurer();
 		escape = new TextAdventure();
 		escape.Setup(); //makes a connection to setup
 		
