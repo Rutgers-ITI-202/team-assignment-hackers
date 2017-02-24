@@ -60,7 +60,7 @@ public class TextAdventure {
 	//initial options
 			
 	int choice;
-	choice= sc.nextInt(); //reads payer's choice
+	choice= sc.nextInt(); //reads player's choice
 		if (choice==1){
 			System.out.println("The table seems to be made out of wood, and there is something taped in one of the table legs.");
 		}
