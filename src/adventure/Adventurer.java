@@ -1,16 +1,25 @@
 /*
 An adventurer has:
-ï	A location (some room).
-ï	An inventory (the things being carried).  When the player executes the ìtake thingî command, the item should be added to the inventory.
+‚Ä¢	A location (some room).
+‚Ä¢	An inventory (the things being carried).  When the player executes the ‚Äútake thing‚Äù command, the item should be added to the inventory.
 
 An adventurer can:
-ï	Move from room to room.
-ï	Carry a number of objects.
-ï	Pick up, drop, look at, and use various objects.
+‚Ä¢	Move from room to room.
+‚Ä¢	Carry a number of objects.
+‚Ä¢	Pick up, drop, look at, and use various objects.
 */
 
 package adventure;
 
 public class Adventurer {
-
+  
+	private boolean flashlight = false;
+	private boolean lock = false;
+  private boolean note = false;
+  private boolean flowerVase = false;
+  private boolean emptyBottle = false; 
+	
+  
+  
+  
 }
