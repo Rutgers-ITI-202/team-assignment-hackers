@@ -20,3 +20,16 @@ public class AdventureModel {
 	protected static final String[] OPEN = new String[] {"open"};
 	protected static final String[] CLOSE = new String[] {"close"};
 }
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		// creating methods for rooms
+	public static void garden(){ 
+	
+	}
+	public static void livingRoom(){
+	
+	}
+	public static void kitchen(){
+		
+	}
