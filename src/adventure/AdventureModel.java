@@ -25,7 +25,7 @@ public class AdventureModel {
 	private static Things table = new Things("On the wooden table, there are slips of notes.");
 	private static Things drawer = new Things("This drawer is reigh beside the bed, and does not have any locks");
 
-	private static Things note = new Things("This note contains a message: );
+	private static Things note = new Things("This note contains a message: ");
 	private static Things torch = new Things("");
 	private static Things jewel = new Things("");
 	private static Things dragontooth = new Things("");
