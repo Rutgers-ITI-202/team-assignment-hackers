@@ -52,14 +52,20 @@ public class AdventureModel {
 	
 	private static Things suitcase = new Things("");
 	
+	//rooms
+	private static Rooms firstRoom = new Rooms("Dreary Room: ");
+	private static Rooms dragonThemed = new Rooms("");
+	private static Rooms techThemed = new Rooms("");
+	private static Rooms egyptianThemed = new Rooms("");
+	private static Rooms ninjaThemed = new Rooms("");
+	private static Rooms pirateThemed = new Rooms ("");
+	private static Rooms prisonThemed = new Rooms ("");
+	private static Rooms botanicalGarden = new Rooms ("");
+	private static Rooms indoorPool = new Rooms("");
+	private static Rooms ancientLibrary = new Rooms("");
+	
 	// creating methods for rooms
-	public static void garden(){ 
-	
-	}
-	public static void livingRoom(){
-	
-	}
-	public static void kitchen(){
-		
-	}
+	//public static void garden(){ 	}
+	//public static void livingRoom(){}
+	//public static void kitchen(){}
 }
