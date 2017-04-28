@@ -1,3 +1,5 @@
+
+package adventure;
 /**
  * 
  * @author Kajal, Kathy, Winnie
