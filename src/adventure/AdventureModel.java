@@ -185,7 +185,7 @@ class AdventureModel {
 		    //key tech
 		    Key jewel = new Key();
 		    jewel.setDesc("Jewel");
-		    r1.addItem(torch);
+		    r1.addItem(jewel);
 		    //key ninja room
 		    Key usbDrive = new Key();
 			usbDrive.setDesc("USB drive - contains unknown information.");
